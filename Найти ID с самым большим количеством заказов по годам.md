@@ -19,3 +19,28 @@
 
 # **Сортировка**
 Результат отсортируйте по возрастанию столбцов year, an_id.
+
+# **Решение**
+``` SQL
+WITH cte1 AS
+  (SELECT EXTRACT(YEAR
+                  FROM ord_datetime)::TEXT AS YEAR,
+          ord_an AS an_id,
+          COUNT(ord_an) AS cnt
+   FROM Orders
+   GROUP BY EXTRACT(YEAR
+                    FROM ord_datetime),
+            ord_an),
+     cte2 AS
+  (SELECT YEAR,
+          an_id,
+          cnt,
+          RANK() OVER(PARTITION BY YEAR
+                      ORDER BY cnt DESC) AS rank
+   FROM cte1)
+SELECT YEAR,
+       an_id,
+       cnt
+FROM cte2
+WHERE rank = 1
+```
