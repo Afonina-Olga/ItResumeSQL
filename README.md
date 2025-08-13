@@ -71,4 +71,4 @@
 [68. Фиксация входа-выхода сотрудников](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/68.%20Фиксация%20входа-выхода%20сотрудников.md)\
 [69. [Тестовое Альфа-банк] Средняя стоимость 5 покупки](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/69.%20%5BТестовое%20Альфа-банк%5D%20Средняя%20стоимость%205%20покупки.md)\
 [70. Интервалы подряд идущих чисел](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/70.%20Интервалы%20подряд%20идущих%20чисел.md)\
-[71. Самые заказываемые пары товаров](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/71.%20Самые%20заказываемые%20пары%20товаров.md)\
+[71. Самые заказываемые пары товаров](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/71.%20Самые%20заказываемые%20пары%20товаров.md)
