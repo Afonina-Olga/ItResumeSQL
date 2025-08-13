@@ -1,16 +1,16 @@
 # ItResumeSQL
 Решение задач по SQL с ItResume
 
-[1. Найти ID с самым большим количеством заказов по годам](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/1.%20Найти%20ID%20с%20самым%20большим%20количеством%20заказов%20по%20годам.md)
-[2. Рост продаж по сравнению с предыдущим днем](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/2.%20Рост%20продаж%20по%20сравнению%20с%20предыдущим%20днем.md)
-[3. Анализы, которые никогда не заказывались](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/3.%20Анализы%2C%20которые%20никогда%20не%20заказывались.md)
-[4. Найти округа, в которых не было покупок](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/4.%20Найти%20округа%2C%20в%20которых%20не%20было%20покупок.md)
+[1. Найти ID с самым большим количеством заказов по годам](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/1.%20Найти%20ID%20с%20самым%20большим%20количеством%20заказов%20по%20годам.md)  
+[2. Рост продаж по сравнению с предыдущим днем](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/2.%20Рост%20продаж%20по%20сравнению%20с%20предыдущим%20днем.md)  
+[3. Анализы, которые никогда не заказывались](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/3.%20Анализы%2C%20которые%20никогда%20не%20заказывались.md)  
+[4. Найти округа, в которых не было покупок](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/4.%20Найти%20округа%2C%20в%20которых%20не%20было%20покупок.md)  
 [5. Найти все пары различных клиентов](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/5.%20Найти%20все%20пары%20различных%20клиентов.md)
-[6. [Тестовое Тинькофф] Недозвонившиеся клиенты](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/6.%20%5BТестовое%20Тинькофф%5D%20Недозвонившиеся%20клиенты.md)
+[6. [Тестовое Тинькофф] Недозвонившиеся клиенты](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/6.%20%5BТестовое%20Тинькофф%5D%20Недозвонившиеся%20клиенты.md)  
 [7. Продажи в апреле 2020](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/7.%20Продажи%20в%20апреле%202020.md)
 [8. Режим хранения анализов](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/8.%20Режим%20хранения%20анализов.md)
 [9. Анализ крови](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/9.%20Анализ%20крови.md)
-[10. Анализы, которые не продавались за период](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/10.%20Анализы%2C%20которые%20не%20продавались%20за%20период.md)
+[10. Анализы, которые не продавались за период](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/10.%20Анализы%2C%20которые%20не%20продавались%20за%20период.md)  
 [11. TOP - Продажи анализов в течение недели](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/11.%20TOP%20-%20Продажи%20анализов%20в%20течение%20недели.md)
 [12. Задача на расчет наценки](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/12.%20Задача%20на%20расчет%20наценки.md)
 [13. Анализы в апреле 2018](https://github.com/Afonina-Olga/ItResumeSQL/blob/main/13.%20Анализы%20в%20апреле%202018.md)
